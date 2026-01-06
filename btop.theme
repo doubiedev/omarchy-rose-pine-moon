@@ -1,5 +1,5 @@
  Main background, empty for terminal default, need to be empty if you want transparent background
-theme[main_bg]="#191724"
+theme[main_bg]="#232136"
 # Base
 
 # Main text color
@@ -15,7 +15,7 @@ theme[hi_fg]="#e0def4"
 # Text
 
 # Background color of selected item in processes box
-theme[selected_bg]="#524f67"
+theme[selected_bg]="#56526e"
 # HL High
 
 # Foreground color of selected item in processes box
@@ -23,7 +23,7 @@ theme[selected_fg]="#f6c177"
 # Gold
 
 # Color of inactive/disabled text
-theme[inactive_fg]="#403d52"
+theme[inactive_fg]="44415a"
 # HL Med
 
 # Color of text appearing on top of graphs, i.e uptime and current network graph scaling
@@ -39,11 +39,11 @@ theme[proc_misc]="#c4a7e7"
 # Iris
 
 # Cpu box outline color
-theme[cpu_box]="#ebbcba"
+theme[cpu_box]="#ea9a97"
 # Rose
 
 # Memory/disks box outline color
-theme[mem_box]="#31748f"
+theme[mem_box]="#3e8fb0"
 # Pine
 
 # Net up/down box outline color
@@ -59,7 +59,7 @@ theme[div_line]="#6e6a86"
 # Muted
 
 # Temperature graph colors
-theme[temp_start]="#ebbcba"
+theme[temp_start]="#ea9a97"
 # Rose
 theme[temp_mid]="#f6c177"
 # Gold
@@ -69,7 +69,7 @@ theme[temp_end]="#eb6f92"
 # CPU graph colors
 theme[cpu_start]="#f6c177"
 # Gold
-theme[cpu_mid]="#ebbcba"
+theme[cpu_mid]="#ea9a97"
 # Rose
 theme[cpu_end]="#eb6f92"
 # Love
@@ -88,31 +88,31 @@ theme[cached_end]="#c4a7e7"
 
 # Mem/Disk available meter
 # all pine
-theme[available_start]="#31748f"
-theme[available_mid]="#31748f"
-theme[available_end]="#31748f"
+theme[available_start]="#3e8fb0"
+theme[available_mid]="#3e8fb0"
+theme[available_end]="#3e8fb0"
 
 # Mem/Disk used meter
 # all rose
-theme[used_start]="#ebbcba"
-theme[used_mid]="#ebbcba"
-theme[used_end]="#ebbcba"
+theme[used_start]="#ea9a97"
+theme[used_mid]="#ea9a97"
+theme[used_end]="#ea9a97"
 
 # Download graph colors
 # Pine for start, foam for the rest
-theme[download_start]="#31748f"
+theme[download_start]="#3e8fb0"
 theme[download_mid]="#9ccfd8"
 theme[download_end]="#9ccfd8"
 
 # Upload graph colors
-theme[upload_start]="#ebbcba"
+theme[upload_start]="#ea9a97"
 # Rose for start
 theme[upload_mid]="#eb6f92"
 # Love for mid and end
 theme[upload_end]="#eb6f92"
 
 # Process box color gradient for threads, mem and cpu usage
-theme[process_start]="#31748f"
+theme[process_start]="#3e8fb0"
 # Pine
 theme[process_mid]="#9ccfd8"
 # Foam for mid and end
